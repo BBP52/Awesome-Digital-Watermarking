@@ -1,5 +1,5 @@
-# Awesome-Digital~Watermarking
-A list of awesome Digital-Watermarking.
+# Digital~Watermarking
+A list of papers about Digital-Watermarking.
 ## Contents
 
 ## Papers
