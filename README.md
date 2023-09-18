@@ -4,4 +4,5 @@ A list of awesome Digital-Watermarking.
 
 ## Papers
  | Title | Affiliation | Venue | Date | Methods | Merits | Demerits | Link |
+ | ----- | ----------- | ----- | ---- | ------- | ------ | -------- | ---- |
  | a | b | Venue | Date | Methods | Merits | Demerits | Link |
