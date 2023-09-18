@@ -1,2 +1,2 @@
-# Awesome-Digital~Watermarking-AND-screen~to~camera~defence
+# Awesome-Digital~Watermarking
 A list of awesome Digital-Watermarking.
