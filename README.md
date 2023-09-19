@@ -1,8 +1,8 @@
 # Digital Watermarking
 A list of papers about Digital-Watermarking.
 ## Contents
-- [Papers](##papers)
-- [1](##docs)
+- [Papers](#papers)
+- [1](#docs)
 ## Papers
  | Title | Affiliation | Venue and Year | Methods | Merits | Demerits | Link | Source |
  | ----- | ----------- | -------------- | ------- | ------ | -------- | ---- | ------ |
