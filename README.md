@@ -2,6 +2,7 @@
 A list of papers about Digital-Watermarking.
 ## Contents
 - [Papers](#papers)
+- [Papers2](#papers2)
 
 ## Papers
  | Title | Affiliation | Venue and Year | Methods | Merits | Demerits | Link | Database | Code |
@@ -13,3 +14,8 @@ A list of papers about Digital-Watermarking.
  | Screen-Shooting Resilient Watermarking | 中国科大、南大 | TIFS 2018 | | | | [Paper](https://ieeexplore.ieee.org/document/8513859) | | |
  | Wavelet-Based CNN for Robust and High-Capacity Image Watermarking | 中大、彭城实验室 | ICME 2022 | | | | [Paper](https://ieeexplore.ieee.org/document/9859725) | | |
  | Wavelet-Based CNN for Robust and High-Capacity Image Watermarking | 中大、彭城实验室 | ICME 2022 | | | | [Paper](https://ieeexplore.ieee.org/document/9859725) | | |
+
+## Papers2
+ | Title | Affiliation | Venue and Year | Methods | Merits | Demerits | Link | Database | Code |
+ | ----- | ----------- | -------------- | ------- | ------ | -------- | ---- | ------ | ---- |
+ | 中文水印字库的自动生成方法 | 中国科大 | 中国图象图形学报 2022 | 基于编码—解码器网络的自动生成中文字库的文档水印算法 ![Pic](https://BBP52.github.io/pic/Network_1.jpg) | 在数字传输和打印扫描场景下都具有较好的鲁棒性 | 不适用于打印拍照和屏幕拍照的场景 | [Paper](http://www.cjig.cn/html/2022/1/20220118.htm) | | |
