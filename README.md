@@ -19,4 +19,6 @@ A list of papers about Digital-Watermarking.
 ## Papers2
  | Title | Affiliation | Venue and Year | Methods | Merits | Demerits | Link | Database | Code |
  | ----- | ----------- | -------------- | ------- | ------ | -------- | ---- | ------ | ---- |
- | 中文水印字库的自动生成方法 | 中国科大 | 中国图象图形学报 2022 | 基于编码—解码器网络的自动生成中文字库的文档水印算法 ![Pic](https://BBP52.github.io/pic/Network_1.jpg) | 在数字传输和打印扫描场景下都具有较好的鲁棒性 | 不适用于打印拍照和屏幕拍照的场景 | [Paper](http://www.cjig.cn/html/2022/1/20220118.htm) | | [U-net](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net) |
+ | Deep Learning-based Forgery Attack on Document Images | SZU | TIP 2021 |  基于深度学习的文档图像篡改网络，并攻击现有的文档图像认证系统。ForgeNet，TENet，翻拍之前可以通过IHNet去除伪造文档图像中的半色调图案。 |  |  | [Paper](https://ieeexplore.ieee.org/document/9540787) | | |
+ | Domain-agnostic document authentication against practical recapturing attacks | SZU | TIFS 2022 | |  |  | [Paper](https://ieeexplore.ieee.org/document/9851649) | | |
+ | Face Spoofing Detection Based on Local Ternary Label Supervision in Fully Convolutional Networks | SZU | TIFS 2020 | |  |  | [Paper](https://ieeexplore.ieee.org/document/9056824) | | |
