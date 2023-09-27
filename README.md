@@ -15,6 +15,8 @@ A list of papers about Digital-Watermarking.
  | Screen-Shooting Resilient Watermarking | 中国科大、南大 | TIFS 2018 | intensity-based scale-invariant feature transform (I-SIFT) algorithm，小尺寸模板算法插入水印，一种基于交叉验证的盲提取与重复嵌入相结合的算法：提取精度保证，BCH编码。![Pic](https://BBP52.github.io/pic/Network_5_1.jpg) | 距离鲁棒性好、水平左60°-右60°、垂直-45-60° | 提取过程慢、SIFT：仅能处理复杂纹理、不能文本 | [Paper](https://ieeexplore.ieee.org/document/8513859) | [labtiff](https://sipi.usc.edu/database/) | [code](https://gitlab.com/libtiff/libtiff) |
  | Wavelet-Based CNN for Robust and High-Capacity Image Watermarking | 中大、彭城实验室 | ICME 2022 | | | | [Paper](https://ieeexplore.ieee.org/document/9859725) | | |
  | U-Net: Convolutional Networks for Biomedical Image Segmentation | University of Freiburg | Miccai 2015 | U-Net | 允许通过重叠平铺策略对任意大的图像进行无缝分割。对大型图像的训练好，只需较少数据 | | [Paper](https://ieeexplore.ieee.org/document/9859725) | | [U-net](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net) |
+ | Color constancy through inverse-intensity chromaticity space | UOT/CU | JOSAA 2004 | IIC色度特征 | 允许通过重叠平铺策略对任意大的图像进行无缝分割。对大型图像的训练好，只需较少数据 | | [Paper](https://opg.optica.org/josaa/fulltext.cfm?uri=josaa-21-3-321&id=78880) | | |
+ 
 
 ## Papers2
  | Title | Affiliation | Venue and Year | Methods | Merits | Demerits | Link | Database | Code |
